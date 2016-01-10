@@ -1,2 +1,2 @@
 # UTAstroHackDay2016
-Hack day!
+Welcome to the hack day! Please take a look at the [wiki](https://github.com/OttoStruve/UTAstroHackDay2016/wiki) for a bit more information on what a hack day is and how it's run, add your name to the [participants list](https://github.com/OttoStruve/UTAstroHackDay2015/wiki/Participants), and add any [hack ideas](https://github.com/OttoStruve/UTAstroHackDay2015/wiki/Hack-Ideas) you have!
